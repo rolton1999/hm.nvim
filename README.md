@@ -5,7 +5,7 @@ by Roman Madyanov, itself ported from John Gruber's BBEdit "Gruber Dark" scheme.
 
 Changes from upstream gruber.vim:
 
-- the yellow accent (`#ffd700`) is replaced with menthol green (`#30ba8f`)
+- the yellow accent (`#ffd700`) is replaced with menthol green (`#3eb489`)
 - literals (`String`, `Constant`) use `#71bc78`
 
 ## Install
@@ -20,15 +20,3 @@ vim.cmd("colorscheme hm")
 ```
 
 Or copy `colors/hm.lua` to `~/.config/nvim/colors/`.
-
-## Usage
-
-```vim
-:colorscheme hm
-```
-
-## License
-
-MIT, see [LICENSE](LICENSE). Original gruber.vim is MIT, copyright Roman Madyanov.
-Gruber Dark colors originate from John Gruber's BBEdit scheme
-(https://daringfireball.net/projects/bbcolors/schemes/).
