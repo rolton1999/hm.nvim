@@ -19,7 +19,8 @@ require("lazy").setup({
 vim.cmd("colorscheme hm")
 ```
 
-Or copy `colors/hm.vim` to `~/.config/nvim/colors/`.
+Or copy `colors/hm.lua` to `~/.config/nvim/colors/`. Neovim only; plain Vim has no
+Lua support for colorschemes.
 
 ## Usage
 
