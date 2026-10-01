@@ -19,8 +19,8 @@ local c = {
   green = { "#87d75f", "113" },
   red = { "#ff5f5f", "203" },
   white = { "#e4e4e4", "254" },
-  literal = { "#71bc78", "72" },
-  menthol = { "#97ce97", "114" },
+  literal = { "#97ce97", "114" },
+  menthol = { "#3bb08f", "72" },
 }
 
 local groups = {
