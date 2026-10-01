@@ -5,7 +5,7 @@ by Roman Madyanov, itself ported from John Gruber's BBEdit "Gruber Dark" scheme.
 
 Changes from upstream gruber.vim:
 
-- the yellow accent (`#ffd700`) is replaced with menthol green (`#3bb08f`)
+- the yellow accent (`#ffd700`) is replaced with menthol green (`#97ce97`)
 - literals (`String`, `Constant`) use `#71bc78`
 
 ## Install
