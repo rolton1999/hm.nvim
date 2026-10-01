@@ -20,7 +20,7 @@ local c = {
   red = { "#ff5f5f", "203" },
   white = { "#e4e4e4", "254" },
   literal = { "#71bc78", "72" },
-  menthol = { "#3eb489", "72" },
+  menthol = { "#3bb08f", "72" },
 }
 
 local groups = {
