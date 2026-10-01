@@ -3,10 +3,7 @@
 A Vim/Neovim colorscheme derived from [gruber.vim](https://github.com/m6vrm/gruber.vim)
 by Roman Madyanov, itself ported from John Gruber's BBEdit "Gruber Dark" scheme.
 
-Changes from upstream gruber.vim:
-
-- the yellow accent (`#ffd700`) is replaced with menthol green (`#3bb08f`)
-- literals (`String`, `Constant`) use `#97ce97`
+![screenshot](screenshot.png)
 
 ## Install
 
